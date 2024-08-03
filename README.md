@@ -1,5 +1,5 @@
 # FlappyBird
-This is a FlappyBird Game Project that which has 3 canvas(Game, Game Over and Scoring).
+This repo inncludes FlappyBird Game Project scripts.
 
 Here is a gif from the game;
 
